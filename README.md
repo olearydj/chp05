@@ -16,4 +16,3 @@ Also, LaTeX is handled similarly, (e.g. $e=mc^2$).
 
 Added some comments to the file during presentation.
 
-made and edit during the presentation
